@@ -1,6 +1,6 @@
 # Hello, world
 
-I've decided to make all my self-made (hand-written notes) "open-source". 
+I've decided to make all my self-made (hand-written) notes "open-source". 
 
 Idk how useful they will be to others though.
 
