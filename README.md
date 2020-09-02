@@ -4,7 +4,9 @@ I've decided to make all my self-made (hand-written) notes "open-source".
 
 Idk how useful they will be to others though.
 
-Notes are taken on an iPad Air 3 (Apple Pencil) and using GoodNotes 5.
+Notes are taken on:
+- an iPad Air 3 (Apple Pencil) and using GoodNotes 5
+- Notion (for dat sweet markdown convenience)
 
 I only got the iPad a few weeks back so I've only officially started making notes from this sem onwards (Y2S1).
 
