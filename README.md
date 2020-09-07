@@ -4,7 +4,9 @@ I've decided to make all my self-made (hand-written) notes "open-source".
 
 Idk how useful they will be to others though.
 
-Notes were taken on an iPad Air 3 (Apple Pencil) and using GoodNotes 5.
+Notes are taken on:
+- an iPad Air 3 (Apple Pencil) and using GoodNotes 5
+- Notion (for dat sweet markdown convenience)
 
 I only got the iPad a few weeks back so I've only officially started making notes from this sem onwards (Y2S1).
 
@@ -22,6 +24,9 @@ I only got the iPad a few weeks back so I've only officially started making note
 ---
 
 ### Y1S2
+
+Link to Notion page:
+https://www.notion.so/erisjacey/NUS-SoC-AY-20-21-Sem-1-e81354ef101e46bea432e6ca09f1a774
 
 - CS2030 Programming Methodology II
 - CS2040S Data Structures and Algorithms
