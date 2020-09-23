@@ -25,8 +25,6 @@ I only got the iPad a few weeks back so I've only officially started making note
 
 ### Y1S2
 
-[Link to Notion page](https://www.notion.so/erisjacey/NUS-SoC-AY-20-21-Sem-1-e81354ef101e46bea432e6ca09f1a774)
-
 - CS2030 Programming Methodology II
 - CS2040S Data Structures and Algorithms
 - MA1101R Linear Algebra I
@@ -36,6 +34,8 @@ I only got the iPad a few weeks back so I've only officially started making note
 ---
 
 ### Y2S1
+
+[Link to Notion page](https://www.notion.so/erisjacey/NUS-SoC-AY-20-21-Sem-1-e81354ef101e46bea432e6ca09f1a774)
 
 - CS2103T Software Engineering
 - CS2100 Computer Organisation
